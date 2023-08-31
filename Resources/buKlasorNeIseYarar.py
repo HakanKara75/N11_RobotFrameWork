@@ -1,0 +1,1 @@
+# sayfalar ve sayfalarin icindeki locateler bulunur

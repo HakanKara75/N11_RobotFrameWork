@@ -1,0 +1,1 @@
+# metotlarin bulundugu yer
